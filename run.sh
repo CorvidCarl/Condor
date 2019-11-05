@@ -1,3 +1,3 @@
 #!/bin/sh
 
-sudo apt update && sudo apt install -y vim
+sudo apt update && sudo apt install -y vim git
